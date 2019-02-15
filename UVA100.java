@@ -1,5 +1,6 @@
 import java.util.Scanner;
 class UVA100 {
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         while(input.hasNextInt()){
