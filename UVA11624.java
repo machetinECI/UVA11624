@@ -33,6 +33,7 @@ class UVA11624 {
                         break;
                     }
                 }
+		    
                 else{
                     if(mat[y][x]==-2 && mat[u.i][u.j]>=0){
                         mat[y][x]=mat[u.i][u.j]+1;
